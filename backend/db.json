@@ -1,6 +1,15 @@
 {
   "users": [
-    { "id": "1", "name": "João Silva", "email": "joao@email.com" },
-    { "id": "2", "name": "Maria Silva", "email": "maria@email.com"}
-  ]
+    {
+      "name": "renan",
+      "email": "renan.camara@gmail.com",
+      "id": "KWnPDz3Tjsw"
+    },
+    {
+      "name": "estela",
+      "email": "estela@gmail.com",
+      "id": "WCSrulcsR0Q"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
